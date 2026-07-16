@@ -1,0 +1,451 @@
+repo,username,commit_count,company_field,email_domain,classified_affiliation
+langchain,baskaryan,1398,,,LangChain
+langchain,hwchase17,1235,,,LangChain
+langchain,ccurme,1028,,langchain.dev,LangChain
+langchain,mdrxy,872,,,LangChain
+langchain,eyurtsev,754,@langchain-ai,,LangChain
+langchain,cbornet,412,@IBM,hotmail.com,IBM
+langchain,leo-gan,379,,gmail.com,Independent/Unknown
+langchain,dependabot[bot],358,,,Bot
+langchain,nfcampos,351,@witanlabs,,LangChain
+langchain,hinthornw,313,LangChain,,LangChain
+langchain,sydney-runkle,181,@langchain-ai,,LangChain
+langchain,jacoblee93,151,@langchain-ai,,LangChain
+langchain,vowelparrot,146,LangChain,,LangChain
+langchain,rlancemartin,128,,,LangChain
+langchain,dev2049,124,,,LangChain
+langchain,tomasonjo,99,,gmail.com,Neo4j
+langchain,keenborder786,97,CAIRE,,Other (CAIRE)
+langchain,olgavrou,89,,,LangChain
+langchain,obi1kenobi,82,,,Independent/Unknown
+langchain,MichaelLi65535,81,,,Independent/Unknown
+langchain,eltociear,67,,,Independent/Unknown
+langchain,langchain-model-profile-bot[bot],65,,,Bot
+langchain,isahers1,54,,,LangChain
+langchain,agola11,50,,,Independent/Unknown
+langchain,lkuligin,49,,,Google
+langchain,sepiatone,43,MIT,,Other (MIT)
+langchain,ZhangShenao,42,LearningMachine,163.com,Other (LearningMachine)
+langchain,maang-h,41,,,Independent/Unknown
+langchain,liugddx,36,,gmail.com,Independent/Unknown
+langchain,chyroc,35,,,Independent/Unknown
+langchain,vbarda,33,,,LangChain
+langchain,MthwRobinson,33,@Unstructured-IO ,gmail.com,Other (@Unstructured-IO)
+langchain,169,32,,,Independent/Unknown
+langchain,pprados,32,Carbon IT,prados.fr,Other (Carbon IT)
+langchain,ShorthillsAI,30,Shorthills AI,,Other (Shorthills AI)
+langchain,DangerousPotential,29,,,Independent/Unknown
+langchain,hemidactylus,29,,,DataStax
+langchain,nick-hollon-lc,29,,,LangChain
+langchain,mspronesti,29,IBM Research,gmail.com,IBM
+langchain,MateuszOssGit,28,IBM,,IBM
+langchain,jhpiedrahitao,27,Samibot,gmail.com,Other (Samibot)
+langchain,kacperlukawski,25,,,Independent/Unknown
+langchain,ofermend,25,Blue Tensor LLC,gmail.com,Other (Blue Tensor LLC)
+langchain,3coins,24,Amazon Web Services,duck.com,AWS
+langchain,mbchang,24,UC Berkeley,,Other (UC Berkeley)
+langchain,timothyasp,23,,,Independent/Unknown
+langchain,bracesproul,23,@langchain-ai,,LangChain
+langchain,Anush008,22,@qdrant,anush.sh,Other (@qdrant)
+langchain,shibuiwilliam,19,,,Independent/Unknown
+langchain,nickscamara,18,Firecrawl,,Other (Firecrawl)
+langchain-community,dependabot[bot],31,,,Bot
+langchain-community,ccurme,26,,langchain.dev,LangChain
+langchain-community,mdrxy,25,,,LangChain
+langchain-community,eyurtsev,10,@langchain-ai,,LangChain
+langchain-community,jkennedyvz,4,@langchain-ai ,,LangChain
+langchain-community,ftonato,3,,,Independent/Unknown
+langchain-community,AsifMehmood97,2,,,Independent/Unknown
+langchain-community,siddarthreddygsr,2,,,Independent/Unknown
+langchain-community,MichaelLi65535,2,,,Independent/Unknown
+langchain-community,keenborder786,2,CAIRE,,Other (CAIRE)
+langchain-community,yukiharada1228,2,,,Independent/Unknown
+langchain-community,Akshay-Dongare,1,,akshaydongare.com,Independent/Unknown
+langchain-community,davale88,1,,,Independent/Unknown
+langchain-community,AmirBraham,1,,gmail.com,Independent/Unknown
+langchain-community,tonybaloney,1,Microsoft,,Microsoft
+langchain-community,athoik,1,Future Group,,Other (Future Group)
+langchain-community,cbornet,1,@IBM,hotmail.com,IBM
+langchain-community,duccm94,1,,,Independent/Unknown
+langchain-community,soucosmo,1,,gmail.com,Independent/Unknown
+langchain-community,CtrlMj,1,,,Independent/Unknown
+langchain-community,lasagna0,1,,,Independent/Unknown
+langchain-community,dbgsprw,1,,gmail.com,Independent/Unknown
+langchain-community,fileames,1,,,Independent/Unknown
+langchain-community,galshubeli,1,,gmail.com,Independent/Unknown
+langchain-community,georg-wind,1,,,Independent/Unknown
+langchain-community,oumizx,1,LinkedIn,linkedin.com,Other (LinkedIn)
+langchain-community,mhihasan,1,@Siteimprove,,Other (@Siteimprove)
+langchain-community,higorgardin,1,,,Independent/Unknown
+langchain-community,lokeshparab,1,,,Independent/Unknown
+langchain-community,marcgibbons,1,,,Independent/Unknown
+langchain-community,marcusrehm,1,Tripadvisor,,Other (Tripadvisor)
+langchain-community,mariomeyer,1,Reyem Tech,gmail.com,Other (Reyem Tech)
+langchain-community,msinto93,1,@jpmorganchase,,Other (@jpmorganchase)
+langchain-community,martra,1,,,Independent/Unknown
+langchain-community,martinschaer,1,SurrealDB,,Other (SurrealDB)
+langchain-community,m1kl0sh,1,,,Independent/Unknown
+langchain-community,NarlaRushikesh,1,,gmail.com,Independent/Unknown
+langchain-community,noirbee,1,,,Independent/Unknown
+langchain-community,parthsompura,1,@intel @egnyte @langchain-ai @joblo-ai @cs50,gmail.com,LangChain
+langchain-community,theprashasst,1,,,Independent/Unknown
+langchain-community,rajasblack,1,,,Independent/Unknown
+langchain-community,codycjy,1,,,Independent/Unknown
+langchain-community,Satya-Indukuri,1,,,Independent/Unknown
+langchain-community,taishikato,1,,,Independent/Unknown
+langchain-community,tdahar,1,OpenZeppelin,,Other (OpenZeppelin)
+langchain-community,vneogi199,1,,,Independent/Unknown
+langchain-community,vria,1,,laposte.net,Independent/Unknown
+langchain-community,woohhan,1,LINE PLUS,,Other (LINE PLUS)
+langchain-community,Xe,1,@TecharoHQ & @tigrisdata,xeiaso.net,Other (@TecharoHQ & @tigrisdata)
+langchain-community,vsxd,1,,hotmail.com,Independent/Unknown
+langchain-aws,michaelnchin,137,@aws,,AWS
+langchain-aws,3coins,98,Amazon Web Services,duck.com,AWS
+langchain-aws,ccurme,77,,langchain.dev,LangChain
+langchain-aws,baskaryan,55,,,LangChain
+langchain-aws,mdrxy,44,,,LangChain
+langchain-aws,dependabot[bot],32,,,Bot
+langchain-aws,NAPTlME,31,,,AWS
+langchain-aws,langchain-model-profile-bot[bot],17,,,Bot
+langchain-aws,sundargthb,8,,,Independent/Unknown
+langchain-aws,theagenticguy,8,Amazon Web Services,,AWS
+langchain-aws,BumaldaOverTheWater94,6,AWS,,AWS
+langchain-aws,00LAVA00,5,,,Independent/Unknown
+langchain-aws,fedor-intercom,5,,,Independent/Unknown
+langchain-aws,Keyur-S-Patel,5,,,Independent/Unknown
+langchain-aws,seaofawareness,5,,,Independent/Unknown
+langchain-aws,jdbaker01,4,,,Independent/Unknown
+langchain-aws,patilvishal0597,4,AWS Bedrock,,AWS
+langchain-aws,ravediamond,4,Air Liquide,gmail.com,Other (Air Liquide)
+langchain-aws,johnkitaoka,4,,,Independent/Unknown
+langchain-aws,jgordley,4,AWS,,AWS
+langchain-aws,0x-fang,4,,,Independent/Unknown
+langchain-aws,kcgourishetti,3,,,Independent/Unknown
+langchain-aws,tahouse,3,,,Independent/Unknown
+langchain-aws,ysunio,3,AWS,,AWS
+langchain-aws,ps06756,3,Amazon Web Services,pratiksinghal.net,AWS
+langchain-aws,bigbernnn,3,ElevenLabs,gmail.com,Other (ElevenLabs)
+langchain-aws,jacoblee93,3,@langchain-ai,,LangChain
+langchain-aws,awg66,3,Workday,,Other (Workday)
+langchain-aws,ihmaws,2,,,AWS
+langchain-aws,LakshmiPeri23,2,AWS,,AWS
+langchain-aws,jitokim,2,Lbox,gmail.com,Other (Lbox)
+langchain-aws,gabrielrfg,2,,,Independent/Unknown
+langchain-aws,aagarwal-amit,2,,,Independent/Unknown
+langchain-aws,patcheng,2,,,Independent/Unknown
+langchain-aws,kimnamu,2,AWS,,AWS
+langchain-aws,jkennedyvz,2,@langchain-ai ,,LangChain
+langchain-aws,edvinhallvaxhiu,2,Amazon Web Services (AWS),,AWS
+langchain-aws,5enxia,2,,,Independent/Unknown
+langchain-aws,efriis,2,@langchain-ai,,LangChain
+langchain-aws,f4roukb,2,,,Independent/Unknown
+langchain-aws,Haknt,2,,,Independent/Unknown
+langchain-aws,harrytran001,2,@asurion-private ,,Other (@asurion-private)
+langchain-aws,jacob-swe-sp,2,,,Independent/Unknown
+langchain-aws,jimfingal,2,Lumen Energy,lumen.energy,Other (Lumen Energy)
+langchain-aws,WOLIKIMCHENG,1,,,Independent/Unknown
+langchain-aws,tgargiani,1,,,Independent/Unknown
+langchain-aws,tomron-aws,1,Amazon Web Services,,AWS
+langchain-aws,thiagotps,1,,gmail.com,Independent/Unknown
+langchain-aws,MatheusAbdias,1,@Catho,,Other (@Catho)
+langchain-aws,Steinkreis,1,,,Independent/Unknown
+langchain-google,mdrxy,215,,,LangChain
+langchain-google,lkuligin,212,,,Google
+langchain-google,ccurme,134,,langchain.dev,LangChain
+langchain-google,baskaryan,78,,,LangChain
+langchain-google,dependabot[bot],68,,,Bot
+langchain-google,efriis,25,@langchain-ai,,LangChain
+langchain-google,jzaldi,22,Google,,Google
+langchain-google,alx13,13,Google Cloud,,Google
+langchain-google,msaadg,13,ImagineArt,,Other (ImagineArt)
+langchain-google,vbarda,13,,,LangChain
+langchain-google,movsic,12,,gmail.com,Independent/Unknown
+langchain-google,nobu007,11,japan,,Other (japan)
+langchain-google,langchain-model-profile-bot[bot],10,,,Bot
+langchain-google,windkit,10,,gmail.com,Independent/Unknown
+langchain-google,SauravP97,10,@google,gmail.com,Google
+langchain-google,lgesuellip,8,,,Independent/Unknown
+langchain-google,eliasecchig,8,Google,,Google
+langchain-google,gmogr,7,,,Independent/Unknown
+langchain-google,holtskinner,6,@google ,,Google
+langchain-google,jkennedyvz,6,@langchain-ai ,,LangChain
+langchain-google,RONAK-AI647,6,,gmail.com,Independent/Unknown
+langchain-google,lspataroG,6,,google.com,Google
+langchain-google,open-swe[bot],6,,,Bot
+langchain-google,svidiella,5,@GoogleCloudPlatform ,,Google
+langchain-google,kardiff18,5,,,Independent/Unknown
+langchain-google,vonzosten,4,,,Independent/Unknown
+langchain-google,imperorrp,4,,,Independent/Unknown
+langchain-google,mitraan-deshaw,4,,,Independent/Unknown
+langchain-google,Abhishekbhagwat,4,@google @googlecloudplatform,gmail.com,Google
+langchain-google,asimchoudhary,4,,,Independent/Unknown
+langchain-google,SYED-M-HUSSAIN,4,Habib University,,Other (Habib University)
+langchain-google,ykoh42,3,42 SEOUL,student.42seoul.kr,Other (42 SEOUL)
+langchain-google,kiarina,3,blazeworks,,Other (blazeworks)
+langchain-google,jitokim,3,Lbox,gmail.com,Other (Lbox)
+langchain-google,RajeshThallam,3,@GoogleCloudPlatform,gmail.com,Google
+langchain-google,caohy1988,3,Google,,Google
+langchain-google,cmenon12,3,@Capgemini Invent,,Consulting
+langchain-google,spartandingo,3,SEEK,,Other (SEEK)
+langchain-google,rvndbalaji,3,TransUnion,live.com,Other (TransUnion)
+langchain-google,bimslab,2,,,Independent/Unknown
+langchain-google,smannathan,2,,,Independent/Unknown
+langchain-google,ThibaultScalbert,2,,,Independent/Unknown
+langchain-google,tomaszZdunek,2,,,Independent/Unknown
+langchain-google,Tombiczek,2,@bayer-int ,,Other (@bayer-int)
+langchain-google,yashwantbezawada,2,,me.com,Independent/Unknown
+langchain-google,francislan,2,Google LLC,,Google
+langchain-google,majiayu000,2,,,Independent/Unknown
+langchain-google,moizsajid-securiti,2,@securitiai,,Other (@securitiai)
+langchain-google,purificant,2,,,Independent/Unknown
+langchain-google,qvalentin,2,,,Independent/Unknown
+langchain-mongodb,blink1073,97,MongoDB,,MongoDB
+langchain-mongodb,dependabot[bot],84,,,Bot
+langchain-mongodb,caseyclements,52,MongoDB,,MongoDB
+langchain-mongodb,NoahStapp,20,MongoDB,noahstapp.com,MongoDB
+langchain-mongodb,aclark4life,8,"ACLARK.NET, LLC",aclark.net,"Other (ACLARK.NET, LLC)"
+langchain-mongodb,sleepyStick,3,MongoDB,,MongoDB
+langchain-mongodb,Jibola,3,,,Independent/Unknown
+langchain-mongodb,vbarda,3,,,LangChain
+langchain-mongodb,barnuri,2,@CheckPointSW,hotmail.com,Other (@CheckPointSW)
+langchain-mongodb,jkennedyvz,2,@langchain-ai ,,LangChain
+langchain-mongodb,Dheeraj-Nalapat,1,,,Independent/Unknown
+langchain-mongodb,efriis,1,@langchain-ai,,LangChain
+langchain-mongodb,jpfcabral,1,,,Independent/Unknown
+langchain-mongodb,DRXD1000,1,,,Independent/Unknown
+langchain-mongodb,mhasan502,1,Projsite,gmail.com,Other (Projsite)
+langchain-mongodb,rafaelodon,1,SERPRO,gmail.com,Other (SERPRO)
+langchain-mongodb,tgourdel,1,MongoDB,,MongoDB
+langchain-mongodb,s-xu-wafios,1,,,Independent/Unknown
+langchain-nvidia,mattf,543,,cs.wisc.edu,NVIDIA
+langchain-nvidia,jiayin-nvidia,84,NVIDIA,,NVIDIA
+langchain-nvidia,soumilinandi,71,@nvidia,,NVIDIA
+langchain-nvidia,raspawar,67,NVIDIA,,NVIDIA
+langchain-nvidia,dglogo,57,,,NVIDIA
+langchain-nvidia,jkennedyvz,26,@langchain-ai ,,LangChain
+langchain-nvidia,mdrxy,18,,,LangChain
+langchain-nvidia,rmkraus,13,NVIDIA,,NVIDIA
+langchain-nvidia,dependabot[bot],12,,,Bot
+langchain-nvidia,dnandakumar-nv,12,@NVIDIA ,,NVIDIA
+langchain-nvidia,aviolante,10,,gmail.com,Independent/Unknown
+langchain-nvidia,ccurme,8,,langchain.dev,LangChain
+langchain-nvidia,pastorsj,7,@NVIDIA,,NVIDIA
+langchain-nvidia,shubhadeepd,7,Nvidia,,NVIDIA
+langchain-nvidia,hwolff99,6,,,Independent/Unknown
+langchain-nvidia,kylehh,6,Nvidia (ex-AWS/Anyscale),,NVIDIA
+langchain-nvidia,rlancemartin,5,,,LangChain
+langchain-nvidia,nkmcalli,5,,,Independent/Unknown
+langchain-nvidia,VKudlay,4,NVIDIA,,NVIDIA
+langchain-nvidia,adi0106,4,,,Independent/Unknown
+langchain-nvidia,vidushig-nv,3,,,NVIDIA
+langchain-nvidia,haydeniw,2,NVIDIA,gmail.com,NVIDIA
+langchain-nvidia,npentrel,2,@viamrobotics ,,Other (@viamrobotics)
+langchain-nvidia,slopp,2,,,Independent/Unknown
+langchain-nvidia,zlapp,1,,,Independent/Unknown
+langchain-nvidia,Zenodia,1,Nvidia AB,nvidia.com,NVIDIA
+langchain-nvidia,qbarrand,1,@NVIDIA,quba.fr,NVIDIA
+langchain-nvidia,mpenn,1,,,Independent/Unknown
+langchain-nvidia,freshyjmp,1,,,Independent/Unknown
+langchain-nvidia,guilherme-pombo,1,,nvidia.com,NVIDIA
+langchain-nvidia,bbednarski9,1,@Nvidia,,NVIDIA
+langchain-nvidia,baskaryan,1,,,LangChain
+langchain-nvidia,chenopis,1,stewrd.inc,,Other (stewrd.inc)
+langchain-cohere,harry-cohere,25,Cohere,,Cohere
+langchain-cohere,Anirudh31415926535,22,,,Independent/Unknown
+langchain-cohere,dependabot[bot],14,,,Bot
+langchain-cohere,ccurme,13,,langchain.dev,LangChain
+langchain-cohere,steven-connors-cohere,7,@cohere-ai ,cohere.com,Cohere
+langchain-cohere,jasonozuzu-cohere,6,,,Cohere
+langchain-cohere,mdrxy,5,,,LangChain
+langchain-cohere,jkennedyvz,4,@langchain-ai ,,LangChain
+langchain-cohere,billytrend-cohere,4,,,Cohere
+langchain-cohere,GangGreenTemperTatum,3,@dreadnode,,Other (@dreadnode)
+langchain-cohere,baskaryan,2,,,LangChain
+langchain-cohere,mkozakov,2,,,Independent/Unknown
+langchain-cohere,abdullahkady,1,@cohere-ai,gmail.com,Cohere
+langchain-cohere,kakao-bart-lee,1,,kakaocorp.com,Independent/Unknown
+langchain-cohere,casparb,1,@langchain-ai ,langchain.dev,LangChain
+langchain-cohere,charl3sj,1,,,Independent/Unknown
+langchain-cohere,marcoszh,1,,,Independent/Unknown
+langchain-cohere,mahjongmen,1,,,Independent/Unknown
+langchain-cohere,efriis,1,@langchain-ai,,LangChain
+langchain-cohere,grazzouk,1,,,Independent/Unknown
+langchain-cohere,keitap,1,@sumally,gmail.com,Other (@sumally)
+langchain-cohere,abdalrohman,1,,,Independent/Unknown
+langchain-cohere,mlopezgez,1,,,Independent/Unknown
+langchain-cohere,minjie-cohere,1,Cohere,,Cohere
+langchain-cohere,wei-fh,1,@Firsthand-Labs ,,Other (@Firsthand-Labs)
+langchain-cohere,kaijietti,1,,,Independent/Unknown
+langchain-cohere,pat-cohere,1,,,Cohere
+langchain-ibm,MateuszOssGit,104,IBM,,IBM
+langchain-ibm,dependabot[bot],79,,,Bot
+langchain-ibm,jkennedyvz,10,@langchain-ai ,,LangChain
+langchain-ibm,Mateusz-Switala,10,Red Hat,,Other (Red Hat)
+langchain-ibm,cbornet,5,@IBM,hotmail.com,IBM
+langchain-ibm,KarolZm,5,,,Independent/Unknown
+langchain-ibm,mdrxy,5,,,LangChain
+langchain-ibm,ccurme,4,,langchain.dev,LangChain
+langchain-ibm,Wojciech-Rebisz,3,Red Hat,,Other (Red Hat)
+langchain-ibm,yiweiHeOSS,3,,,Independent/Unknown
+langchain-ibm,owczr,2,IBM,,IBM
+langchain-ibm,Rakesh-Polepeddi,2,,,Independent/Unknown
+langchain-ibm,peerpalo,2,,,Independent/Unknown
+langchain-ibm,bjhargrave,1,@IBM ,hargrave.dev,IBM
+langchain-ibm,efriis,1,@langchain-ai,,LangChain
+langchain-ibm,fslds,1,,spncr.be,Independent/Unknown
+langchain-ibm,JulioSanchezD,1,@IBM,,IBM
+langchain-ibm,marcelomachado,1,@ufjf-dcc,gmail.com,Other (@ufjf-dcc)
+langchain-ibm,Srijan-D,1,,,Independent/Unknown
+langchain-ibm,minatooni,1,,,Independent/Unknown
+langchain-ibm,LukaszKwiek,1,,,Independent/Unknown
+langchain-elastic,maxjakob,18,@elastic,,Elastic
+langchain-elastic,ssh-esh,17,,,Independent/Unknown
+langchain-elastic,miguelgrinberg,8,Elastic,,Elastic
+langchain-elastic,mdrxy,5,,,LangChain
+langchain-elastic,jkennedyvz,3,@langchain-ai ,,LangChain
+langchain-elastic,ccurme,2,,langchain.dev,LangChain
+langchain-elastic,dependabot[bot],2,,,Bot
+langchain-elastic,efriis,1,@langchain-ai,,LangChain
+langchain-elastic,gdahia,1,,,Independent/Unknown
+langchain-elastic,GabrieleGhisleni,1,,,Independent/Unknown
+langchain-elastic,giacbrd,1,@SpazioDati,,Other (@SpazioDati)
+langchain-elastic,isahers1,1,,,LangChain
+langchain-elastic,loganaden,1,@cyberstormdotmu ,cyberstorm.mu,Other (@cyberstormdotmu)
+langchain-elastic,masihsultani,1,,,Independent/Unknown
+langchain-elastic,pquentin,1,@elastic,,Elastic
+langchain-elastic,g-votte,1,Preferred Networks,,Other (Preferred Networks)
+langchain-datastax,hemidactylus,50,,,DataStax
+langchain-datastax,cbornet,47,@IBM,hotmail.com,IBM
+langchain-datastax,dependabot[bot],14,,,Bot
+langchain-datastax,jordanrfrazier,4,@datastax,,DataStax
+langchain-datastax,epinzur,3,,,Independent/Unknown
+langchain-datastax,jkennedyvz,2,@langchain-ai ,,LangChain
+langchain-datastax,mdrxy,2,,,LangChain
+langchain-datastax,nicoloboschi,2,@vectorize-io ,gmail.com,Other (@vectorize-io)
+langchain-datastax,baskaryan,1,,,LangChain
+langchain-datastax,efriis,1,@langchain-ai,,LangChain
+langchain-datastax,isahers1,1,,,LangChain
+langchain-datastax,msmygit,1,,,Independent/Unknown
+langchain-datastax,kerinin,1,,gmail.com,Independent/Unknown
+langchain-datastax,sl-at-ibm,1,International Business Machines,,IBM
+langchain-datastax,ccurme,1,,langchain.dev,LangChain
+langchain-postgres,eyurtsev,68,@langchain-ai,,LangChain
+langchain-postgres,dishaprakash,12,,,Independent/Unknown
+langchain-postgres,averikitsch,8,Google,,Google
+langchain-postgres,efriis,7,@langchain-ai,,LangChain
+langchain-postgres,dependabot[bot],6,,,Bot
+langchain-postgres,jkennedyvz,3,@langchain-ai ,,LangChain
+langchain-postgres,pprados,3,Carbon IT,prados.fr,Other (Carbon IT)
+langchain-postgres,gRedHeadphone,3,Google Cloud,,Google
+langchain-postgres,MartinGotelli,2,,housecallpro.com,Independent/Unknown
+langchain-postgres,ccurme,2,,langchain.dev,LangChain
+langchain-postgres,yukiharada1228,2,,,Independent/Unknown
+langchain-postgres,amotl,2,,elmyra.de,Independent/Unknown
+langchain-postgres,li-qingchen,1,,liqingchen.com,Independent/Unknown
+langchain-postgres,liunux4odoo,1,,,Independent/Unknown
+langchain-postgres,zhcn000000,1,Beijing University of Chemical Technology,buct.edu.cn,Other (Beijing University of Chemical Technology)
+langchain-postgres,vishwarajanand,1,Meta,gmail.com,Meta
+langchain-postgres,kozlek,1,Mergify,,Other (Mergify)
+langchain-postgres,Raj725,1,@nearform,outlook.com,Other (@nearform)
+langchain-postgres,nazarpechka,1,,gmail.com,Independent/Unknown
+langchain-postgres,npentrel,1,@viamrobotics ,,Other (@viamrobotics)
+langchain-postgres,mecampbellsoup,1,@Swarf-Inc,gmail.com,Other (@Swarf-Inc)
+langchain-postgres,leo-gan,1,,gmail.com,Independent/Unknown
+langchain-postgres,JonZeolla,1,@Zenable-io,gmail.com,Other (@Zenable-io)
+langchain-postgres,jim-mlodgenski,1,Amazon Web Services,gmail.com,AWS
+langchain-postgres,JHSeo-git,1,,gmail.com,Independent/Unknown
+langchain-postgres,isahers1,1,,,LangChain
+langchain-postgres,IanQS,1,University of Washington,,Other (University of Washington)
+langchain-postgres,RyanKung,1,,,Independent/Unknown
+langchain-postgres,NanoClem,1,,,Independent/Unknown
+langchain-postgres,CXmartins,1,,,Independent/Unknown
+langchain-redis,dependabot[bot],28,,,Bot
+langchain-redis,tylerhutcherson,9,Redis,redis.com,Redis
+langchain-redis,abrookins,6,Redis,andrewbrookins.com,Redis
+langchain-redis,nickderobertis,6,,,Independent/Unknown
+langchain-redis,rbs333,6,Redis,redis.com,Redis
+langchain-redis,mdrxy,5,,,LangChain
+langchain-redis,lelikg,3,@wix  @virtuvent @weekendgoals ,,Other (@wix  @virtuvent @weekendgoals)
+langchain-redis,ccurme,2,,langchain.dev,LangChain
+langchain-redis,baskaryan,1,,,LangChain
+langchain-redis,efriis,1,@langchain-ai,,LangChain
+langchain-redis,Gauraviitkgp,1,,,Independent/Unknown
+langchain-redis,jkennedyvz,1,@langchain-ai ,,LangChain
+langchain-redis,MarceloNunesAlves,1,Nava,gmail.com,Other (Nava)
+langchain-redis,TheEaterr,1,,,Independent/Unknown
+langchain-redis,wjohnsto,1,Redis,,Redis
+langchain-redis,ashwinamardeep-ashwin,1,,,Independent/Unknown
+langchain-redis,nkanu17,1,@redis,,Redis
+langchain-redis,syscl,1,"@Google, ex-@Facebook",,Google
+langchain-pinecone,jamescalam,24,Aurelio AI,,Pinecone
+langchain-pinecone,jhamon,18,@pinecone-io,,Pinecone
+langchain-pinecone,dependabot[bot],11,,,Bot
+langchain-pinecone,theanupllm,9,,,Independent/Unknown
+langchain-pinecone,simjak,7,,,Independent/Unknown
+langchain-pinecone,bruvduroiu,4,Oolong Technologies,,Other (Oolong Technologies)
+langchain-pinecone,jkennedyvz,3,@langchain-ai ,,LangChain
+langchain-pinecone,mdrxy,2,,,LangChain
+langchain-pinecone,ccurme,2,,langchain.dev,LangChain
+langchain-pinecone,bajajku,1,,,Independent/Unknown
+langchain-pinecone,paveltsialnou,1,@epam,,Other (@epam)
+langchain-pinecone,Prasannasaraf,1,@Thoughtworks,,Consulting
+langchain-pinecone,gameliee,1,,,Independent/Unknown
+langchain-together,efriis,10,@langchain-ai,,LangChain
+langchain-together,dependabot[bot],9,,,Bot
+langchain-together,jkennedyvz,5,@langchain-ai ,,LangChain
+langchain-together,ccurme,3,,langchain.dev,LangChain
+langchain-together,Nutlope,2,,gmail.com,Together AI
+langchain-together,mdrxy,2,,,LangChain
+langchain-together,baskaryan,1,,,LangChain
+langchain-together,benoit-cty,1,French National Assembly,,Other (French National Assembly)
+langchain-together,TechnoFinch,1,,,Independent/Unknown
+langchain-together,nbroad1881,1,Hugging Face,,Other (Hugging Face)
+langchain-together,sambarrowclough,1,,,Independent/Unknown
+langchain-neo4j,alexthomas93,50,,,Neo4j
+langchain-neo4j,dependabot[bot],14,,,Bot
+langchain-neo4j,tomasonjo,4,,gmail.com,Neo4j
+langchain-neo4j,willtai,4,,,Neo4j
+langchain-neo4j,Rafal-Chrzanowski-IBM,2,,,Independent/Unknown
+langchain-neo4j,serengil-neo4j,2,,neo4j.com,Neo4j
+langchain-neo4j,bayu-siddhi,1,Sepuluh Nopember Institute of Technology,,Other (Sepuluh Nopember Institute of Technology)
+langchain-neo4j,tdennisliu,1,Hatch,gmail.com,Other (Hatch)
+langchain-neo4j,efriis,1,@langchain-ai,,LangChain
+langchain-neo4j,jkennedyvz,1,@langchain-ai ,,LangChain
+langchain-neo4j,mdrxy,1,,,LangChain
+langchain-neo4j,MiguelLopezVirues,1,,,Independent/Unknown
+langchain-neo4j,1nikolas,1,,1nikolas.dev,Independent/Unknown
+langchain-neo4j,Sanskar121543,1,,,Independent/Unknown
+langchain-neo4j,serengil,1,@Neo4j,gmail.com,Neo4j
+langchain-neo4j,chkaty,1,,,Independent/Unknown
+langchain-neo4j,jtanningbed,1,,gmail.com,Independent/Unknown
+langchain-milvus,zc277584121,54,@zilliztech,zilliz.com,Zilliz/Milvus
+langchain-milvus,mdrxy,7,,,LangChain
+langchain-milvus,dependabot[bot],5,,,Bot
+langchain-milvus,DrChristophFH,1,FH-Hagenberg/SCCH,,Other (FH-Hagenberg/SCCH)
+langchain-milvus,efriis,1,@langchain-ai,,LangChain
+langchain-milvus,jkennedyvz,1,@langchain-ai ,,LangChain
+langchain-milvus,matanbt,1,,,Independent/Unknown
+langchain-milvus,MateuszOssGit,1,IBM,,IBM
+langchain-milvus,keenborder786,1,CAIRE,,Other (CAIRE)
+langchain-milvus,ohadeytan,1,,gmail.com,Independent/Unknown
+langchain-milvus,omriel1,1,,,Independent/Unknown
+langchain-milvus,Rachit-Chaudhary11,1,,,Independent/Unknown
+langchain-milvus,rgupta2508,1,,gmail.com,Independent/Unknown
+langchain-milvus,sunwupark,1,Kyunghee University,,Other (Kyunghee University)
+langchain-milvus,codingjaguar,1,Zilliz,,Zilliz/Milvus
+langchain-meta,ccurme,22,,langchain.dev,LangChain
+langchain-meta,jkennedyvz,17,@langchain-ai ,,LangChain
+langchain-meta,dependabot[bot],8,,,Bot
+langchain-meta,seyeong-han,4,Meta,,Meta
+langchain-meta,mattpetters,2,,,Meta
+langchain-experimental,dependabot[bot],10,,,Bot
+langchain-experimental,ccurme,6,,langchain.dev,LangChain
+langchain-experimental,tomasonjo,4,,gmail.com,Neo4j
+langchain-experimental,efriis,1,@langchain-ai,,LangChain
+langchain-experimental,jkennedyvz,1,@langchain-ai ,,LangChain
+langchain-experimental,Levara,1,,,Independent/Unknown
+langchain-experimental,lga-zurich,1,IBM Research,zurich.ibm.com,IBM
+langchain-experimental,mdrxy,1,,,LangChain
+langchain-experimental,hesreallyhim,1,Really Engineering,hesreallyhim.com,Other (Really Engineering)
+langchain-experimental,tibor-reiss,1,,,Independent/Unknown
+langchain-experimental,YuvalSarel1,1,,,Independent/Unknown

@@ -1,0 +1,20 @@
+scope,host_commits,external_commits,independent_commits,host_pct,external_pct,independent_pct,total
+langchain,6909,1063,899,77.9,12.0,10.1,8871
+langchain-aws,183,320,64,32.3,56.4,11.3,567
+langchain-cohere,26,51,31,24.1,47.2,28.7,108
+langchain-community,66,14,37,56.4,12.0,31.6,117
+langchain-datastax,8,104,5,6.8,88.9,4.3,117
+langchain-elastic,12,30,20,19.4,48.4,32.3,62
+langchain-experimental,9,6,3,50.0,33.3,16.7,18
+langchain-google,471,344,80,52.6,38.4,8.9,895
+langchain-ibm,20,127,16,12.3,77.9,9.8,163
+langchain-meta,39,6,0,86.7,13.3,0.0,45
+langchain-milvus,9,59,5,12.3,80.8,6.8,73
+langchain-mongodb,6,185,7,3.0,93.4,3.5,198
+langchain-neo4j,3,63,7,4.1,86.3,9.6,73
+langchain-nvidia,58,883,30,6.0,90.9,3.1,971
+langchain-pinecone,7,48,18,9.6,65.8,24.7,73
+langchain-postgres,81,23,26,62.3,17.7,20.0,130
+langchain-redis,10,28,9,21.3,59.6,19.1,47
+langchain-together,21,4,2,77.8,14.8,7.4,27
+ECOSYSTEM (all repos),7938,3358,1259,63.2,26.7,10.0,12555

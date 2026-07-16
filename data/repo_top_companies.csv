@@ -1,0 +1,126 @@
+repo,rank,affiliation,commits,commit_share
+langchain,1,LangChain,6909,0.7788
+langchain,2,IBM,469,0.0529
+langchain,3,Neo4j,99,0.0112
+langchain,4,Other (CAIRE),97,0.0109
+langchain,5,Google,49,0.0055
+langchain,6,Other (MIT),43,0.0048
+langchain,7,Other (LearningMachine),42,0.0047
+langchain,8,Other (@Unstructured-IO),33,0.0037
+langchain,9,Other (Carbon IT),32,0.0036
+langchain,10,Other (Shorthills AI),30,0.0034
+langchain,—,Volunteers/Unknown (excluded from rank),899,0.1013
+langchain-aws,1,AWS,303,0.5344
+langchain-aws,2,LangChain,183,0.3228
+langchain-aws,3,Other (Air Liquide),4,0.0071
+langchain-aws,4,Other (ElevenLabs),3,0.0053
+langchain-aws,5,Other (Workday),3,0.0053
+langchain-aws,6,Other (Lbox),2,0.0035
+langchain-aws,7,Other (@asurion-private),2,0.0035
+langchain-aws,8,Other (Lumen Energy),2,0.0035
+langchain-aws,9,Other (@Catho),1,0.0018
+langchain-aws,—,Volunteers/Unknown (excluded from rank),64,0.1129
+langchain-cohere,1,Cohere,45,0.4167
+langchain-cohere,2,LangChain,26,0.2407
+langchain-cohere,3,Other (@dreadnode),3,0.0278
+langchain-cohere,4,Kakao,1,0.0093
+langchain-cohere,5,Other (@sumally),1,0.0093
+langchain-cohere,6,Other (@Firsthand-Labs),1,0.0093
+langchain-cohere,—,Volunteers/Unknown (excluded from rank),31,0.287
+langchain-community,1,LangChain,66,0.5641
+langchain-community,2,Other (CAIRE),2,0.0171
+langchain-community,3,Microsoft,1,0.0085
+langchain-community,4,Other (Future Group),1,0.0085
+langchain-community,5,IBM,1,0.0085
+langchain-community,6,Other (LinkedIn),1,0.0085
+langchain-community,7,Other (@Siteimprove),1,0.0085
+langchain-community,8,Other (Tripadvisor),1,0.0085
+langchain-community,9,Other (Reyem Tech),1,0.0085
+langchain-community,10,Other (@jpmorganchase),1,0.0085
+langchain-community,—,Volunteers/Unknown (excluded from rank),37,0.3162
+langchain-datastax,1,DataStax,54,0.4615
+langchain-datastax,2,IBM,48,0.4103
+langchain-datastax,3,LangChain,8,0.0684
+langchain-datastax,4,Other (@vectorize-io),2,0.0171
+langchain-datastax,—,Volunteers/Unknown (excluded from rank),5,0.0427
+langchain-elastic,1,Elastic,27,0.4355
+langchain-elastic,2,LangChain,12,0.1935
+langchain-elastic,3,Other (@SpazioDati),1,0.0161
+langchain-elastic,4,Other (@cyberstormdotmu),1,0.0161
+langchain-elastic,5,Other (Preferred Networks),1,0.0161
+langchain-elastic,—,Volunteers/Unknown (excluded from rank),20,0.3226
+langchain-experimental,1,LangChain,9,0.5
+langchain-experimental,2,Neo4j,4,0.2222
+langchain-experimental,3,IBM,1,0.0556
+langchain-experimental,4,Other (Really Engineering),1,0.0556
+langchain-experimental,—,Volunteers/Unknown (excluded from rank),3,0.1667
+langchain-google,1,LangChain,471,0.5263
+langchain-google,2,Google,294,0.3285
+langchain-google,3,Other (ImagineArt),13,0.0145
+langchain-google,4,Other (japan),11,0.0123
+langchain-google,5,Other (Habib University),4,0.0045
+langchain-google,6,Other (42 SEOUL),3,0.0034
+langchain-google,7,Other (blazeworks),3,0.0034
+langchain-google,8,Other (Lbox),3,0.0034
+langchain-google,9,Consulting,3,0.0034
+langchain-google,10,Other (SEEK),3,0.0034
+langchain-google,—,Volunteers/Unknown (excluded from rank),80,0.0894
+langchain-ibm,1,IBM,113,0.6933
+langchain-ibm,2,LangChain,20,0.1227
+langchain-ibm,3,Other (Red Hat),13,0.0798
+langchain-ibm,4,Other (@ufjf-dcc),1,0.0061
+langchain-ibm,—,Volunteers/Unknown (excluded from rank),16,0.0982
+langchain-meta,1,LangChain,39,0.8667
+langchain-meta,2,Meta,6,0.1333
+langchain-milvus,1,Zilliz/Milvus,55,0.7534
+langchain-milvus,2,LangChain,9,0.1233
+langchain-milvus,3,Other (FH-Hagenberg/SCCH),1,0.0137
+langchain-milvus,4,IBM,1,0.0137
+langchain-milvus,5,Other (CAIRE),1,0.0137
+langchain-milvus,6,Other (Kyunghee University),1,0.0137
+langchain-milvus,—,Volunteers/Unknown (excluded from rank),5,0.0685
+langchain-mongodb,1,MongoDB,173,0.8737
+langchain-mongodb,2,"Other (ACLARK.NET, LLC)",8,0.0404
+langchain-mongodb,3,LangChain,6,0.0303
+langchain-mongodb,4,Other (@CheckPointSW),2,0.0101
+langchain-mongodb,5,Other (Projsite),1,0.0051
+langchain-mongodb,6,Other (SERPRO),1,0.0051
+langchain-mongodb,—,Volunteers/Unknown (excluded from rank),7,0.0354
+langchain-neo4j,1,Neo4j,61,0.8356
+langchain-neo4j,2,LangChain,3,0.0411
+langchain-neo4j,3,Other (Sepuluh Nopember Institute of Technology),1,0.0137
+langchain-neo4j,4,Other (Hatch),1,0.0137
+langchain-neo4j,—,Volunteers/Unknown (excluded from rank),7,0.0959
+langchain-nvidia,1,NVIDIA,880,0.9063
+langchain-nvidia,2,LangChain,58,0.0597
+langchain-nvidia,3,Other (@viamrobotics),2,0.0021
+langchain-nvidia,4,Other (stewrd.inc),1,0.001
+langchain-nvidia,—,Volunteers/Unknown (excluded from rank),30,0.0309
+langchain-pinecone,1,Pinecone,42,0.5753
+langchain-pinecone,2,LangChain,7,0.0959
+langchain-pinecone,3,Other (Oolong Technologies),4,0.0548
+langchain-pinecone,4,Other (@epam),1,0.0137
+langchain-pinecone,5,Consulting,1,0.0137
+langchain-pinecone,—,Volunteers/Unknown (excluded from rank),18,0.2466
+langchain-postgres,1,LangChain,81,0.6231
+langchain-postgres,2,Google,11,0.0846
+langchain-postgres,3,Other (Carbon IT),3,0.0231
+langchain-postgres,4,Other (Beijing University of Chemical Technology),1,0.0077
+langchain-postgres,5,Meta,1,0.0077
+langchain-postgres,6,Other (Mergify),1,0.0077
+langchain-postgres,7,Other (@nearform),1,0.0077
+langchain-postgres,8,Other (@viamrobotics),1,0.0077
+langchain-postgres,9,Other (@Swarf-Inc),1,0.0077
+langchain-postgres,10,Other (@Zenable-io),1,0.0077
+langchain-postgres,—,Volunteers/Unknown (excluded from rank),26,0.2
+langchain-redis,1,Redis,23,0.4894
+langchain-redis,2,LangChain,10,0.2128
+langchain-redis,3,Other (@wix  @virtuvent @weekendgoals),3,0.0638
+langchain-redis,4,Other (Nava),1,0.0213
+langchain-redis,5,Google,1,0.0213
+langchain-redis,—,Volunteers/Unknown (excluded from rank),9,0.1915
+langchain-together,1,LangChain,21,0.7778
+langchain-together,2,Together AI,2,0.0741
+langchain-together,3,Other (French National Assembly),1,0.037
+langchain-together,4,Other (Hugging Face),1,0.037
+langchain-together,—,Volunteers/Unknown (excluded from rank),2,0.0741

@@ -1,0 +1,20 @@
+scope,n_developers_ge5,n_host_employees,host_share_devs_pct,n_external_companies,n_devs_80pct_commits,devs_80pct_share_pct,n_companies_80pct_commits,bus_factor_50pct,total_commits
+langchain,48,17,35.4,16,12,25.0,2,4,8871
+langchain-aws,13,3,23.1,1,5,38.5,2,3,484
+langchain-cohere,6,2,33.3,1,4,66.7,3,2,78
+langchain-community,3,3,100.0,0,2,66.7,1,2,61
+langchain-datastax,2,0,0.0,2,2,100.0,2,1,97
+langchain-elastic,4,1,25.0,1,3,75.0,2,2,48
+langchain-experimental,1,1,100.0,0,1,100.0,1,1,6
+langchain-google,22,6,27.3,3,5,22.7,2,2,825
+langchain-ibm,6,2,33.3,2,2,33.3,2,1,139
+langchain-meta,2,2,100.0,0,2,100.0,1,1,39
+langchain-milvus,2,1,50.0,1,1,50.0,1,1,61
+langchain-mongodb,4,0,0.0,2,2,50.0,1,1,177
+langchain-neo4j,1,0,0.0,1,1,100.0,1,1,50
+langchain-nvidia,17,4,23.5,1,4,23.5,1,1,945
+langchain-pinecone,4,0,0.0,1,3,75.0,2,2,58
+langchain-postgres,4,2,50.0,1,2,50.0,2,1,95
+langchain-redis,5,1,20.0,1,4,80.0,2,3,32
+langchain-together,2,2,100.0,0,2,100.0,1,1,15
+ECOSYSTEM (all repos),146,47,32.2,27,30,20.5,3,7,12081
